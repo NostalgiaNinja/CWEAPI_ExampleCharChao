@@ -30,19 +30,19 @@ extern "C"
 		CWE_API_CHAO_DATA CharChao_pData =
 		{
 			MDLExampleChao->getmodel(),	//pObject
-			{0},						//pSecondEvoList[5]
+			{0},				//pSecondEvoList[5]
 
-			"CosmoChao",				//TextureName
-			7,							//TextureCount
-			0xFF8CB2B3,					//IconColor - hex, 6 bytes
-			ICON_TYPE_HALO,				//IconType
-			NULL,						//pIconData
+			"CosmoChao",			//TextureName
+			7,				//TextureCount
+			0xFF8CB2B3,			//IconColor - hex, 6 bytes
+			ICON_TYPE_HALO,			//IconType
+			NULL,				//pIconData
 
-			CosmoEvolve,				//pEvolveFunc - TO FIX
+			CosmoEvolve,			//pEvolveFunc - TO FIX
 
-			0,							//Flags
-			"Cosmo",					//Name
-			"cwe_cosmo",				//id
+			0,				//Flags
+			"Cosmo",			//Name
+			"cwe_cosmo",			//id
 		};
 		
 		//add the Chao Type
