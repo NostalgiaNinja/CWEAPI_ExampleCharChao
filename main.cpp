@@ -38,7 +38,7 @@ extern "C"
 			ICON_TYPE_HALO,			//IconType
 			NULL,				//pIconData
 
-			CosmoEvolve,			//pEvolveFunc - TO FIX
+			CosmoEvolve,			//pEvolveFunc 
 
 			0,				//Flags
 			"Cosmo",			//Name
