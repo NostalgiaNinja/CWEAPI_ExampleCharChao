@@ -34,7 +34,7 @@ extern "C"
 
 			"CosmoChao",			//TextureName
 			7,				//TextureCount
-			0xFF8CB2B3,			//IconColor - hex, 6 bytes
+			0xFF8CB2B3,			//IconColor - hex, 4 bytes (0xAARRGGBB)
 			ICON_TYPE_HALO,			//IconType
 			NULL,				//pIconData
 
